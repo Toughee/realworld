@@ -56,7 +56,7 @@ RealWorld solves this by allowing you to choose any frontend (React, Angular 2, 
     27: Riot.js v3
     28: Riot.js + Universal + Effector
 -->
-> _Sorted by popularity on Sat May 02 2020_
+> _Sorted by popularity on Sun May 10 2020_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -133,7 +133,7 @@ Work In Progress:
     40: Eclipse Vert.x
     41: Spincast
 -->
-> _Sorted by popularity on Sat May 02 2020_
+> _Sorted by popularity on Sun May 10 2020_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
@@ -201,7 +201,7 @@ Work In Progress:
   Ranking:
      1: NativeScript (Angular)
 -->
-> _Sorted by popularity on Sat May 02 2020_
+> _Sorted by popularity on Sun May 10 2020_
 
 | 🥇 | 🥈 | 🥉 |
 | :---:         |     :---:      |          :---: |
